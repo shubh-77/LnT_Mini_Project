@@ -1,5 +1,5 @@
 # SDLC Activity Based Learning
-![Banner](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/1_Requirements/banner.png)
+![Banner](https://github.com/shubh-77/LnT_Mini_Project/blob/main/1_Requirements/banner1.png)
 
 Visit [Pages for Report -optional](using github.io option)
 
