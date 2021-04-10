@@ -37,7 +37,7 @@ There is a wide range of products based on different types of individuals. It c
     * Indian Post Office Savings Department
     * Goverment-Centralised Bank 
     
-![Description](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/1_Requirements/system.png)
+![Description](https://github.com/shubh-77/LnT_Mini_Project/blob/main/1_Requirements/System_Diagram.png)
 ### Explanation:
 * Savings Scheme Maturity Amount Calculator have few inbuilt features like:
     * Calculate maturity amount for different period of time.
@@ -46,7 +46,7 @@ There is a wide range of products based on different types of individuals. It c
 * Since we have assumed that few systems already exists we can say that in future sprints new features could be added i.e there would be one calculator for calculating the differnt maturity amount for different schemes to secure your financial future at minimal risk.
 
 ## SWOT ANALYSIS
-![SWOT Analysis](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/1_Requirements/swot.png)
+![SWOT Analysis](https://github.com/shubh-77/LnT_Mini_Project/blob/main/1_Requirements/SWOT.png)
 
 # 4W&#39;s and 1&#39;H
 
