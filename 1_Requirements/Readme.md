@@ -28,7 +28,7 @@ There is a wide range of products based on different types of individuals. It c
 ## Cost and Features with Time 
 | Time | Feature | Cost |
 | ----- | ----- | ----- |
-| 10
+| 10    |   Sum |  10  |
 
 
 ## Defining Our System
