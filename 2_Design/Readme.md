@@ -4,10 +4,10 @@
 * Architecture Design :
 ![Architecture](https://github.com/shubh-77/LnT_Mini_Project/blob/main/2_Design/Architecture.png)
 * Component Diagram :
-![ComponentDiagram](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/2_Design/COMPONENT.png)
+![ComponentDiagram](https://github.com/shubh-77/LnT_Mini_Project/blob/main/2_Design/Component_Diagram.png)
 
 * Usecase Diagram :
-![UsecaseDiagram](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/2_Design/Usecasehdl.jpg)
+![UsecaseDiagram](https://github.com/shubh-77/LnT_Mini_Project/blob/main/2_Design/Use_Case_HL.png)
 
 ## Low Level Design 
 
