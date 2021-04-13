@@ -51,7 +51,7 @@ void maturity_calculator_menu(void)
     printf("\n4. Exit");
     printf("\n\tEnter your choice\n");
    
-    fpurge(stdin);
+    // fpurge(stdin);
     scanf("%d", &maturity_calculator_operation);
 
     if(EXIT == maturity_calculator_operation)
@@ -71,7 +71,7 @@ void maturity_calculator_menu(void)
                      scanf("%lf",&years);
                      printf("\nPress Enter to continue\n");
                      printf("%lf",calculate_term_deposit(*pointer_to_principal,*pointer_to_rate,*pointer_to_years));
-                     __fpurge();
+                    //  __fpurge();
                      getchar();
                      break;
                 
@@ -83,7 +83,7 @@ void maturity_calculator_menu(void)
                      scanf("%lf",&years);
                      printf("\nPress Enter to continue\n");
                      printf("%lf",calculate_recurring_deposit(*pointer_to_principal,*pointer_to_rate,*pointer_to_years));
-                     __fpurge();
+                    //  __fpurge();
                      getchar();
                      break;
 
@@ -96,7 +96,7 @@ void maturity_calculator_menu(void)
                      scanf("%lf",&years);
                      printf("\nPress Enter to continue\n");
                      printf("%lf",calculate_ppf(*pointer_to_principal,*pointer_to_rate,*pointer_to_years));
-                     __fpurge();
+                    //  __fpurge();
                      getchar();
                      break;
             
@@ -110,7 +110,7 @@ void maturity_calculator_menu(void)
     else
     {
         printf("\n\t---Choice is not implemented yet---\nEnter to continue\n");
-        fpurge(stdin);
+        // fpurge(stdin);
         getchar();
         return;  
     }
