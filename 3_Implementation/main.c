@@ -70,7 +70,7 @@ void maturity_calculator_menu(void)
                      printf("\nEnter time in years");
                      scanf("%lf",&years);
                      printf("\nPress Enter to continue\n");
-                     printf("%lf",calculate_term_deposit(*pointer_to_principal,*pointer_to_rate,*pointer_to_years));
+                     printf("%.2lf",calculate_term_deposit(*pointer_to_principal,*pointer_to_rate,*pointer_to_years));
                     //  __fpurge();
                      getchar();
                      break;
@@ -82,7 +82,7 @@ void maturity_calculator_menu(void)
                      printf("\nEnter time in years");
                      scanf("%lf",&years);
                      printf("\nPress Enter to continue\n");
-                     printf("%lf",calculate_recurring_deposit(*pointer_to_principal,*pointer_to_rate,*pointer_to_years));
+                     printf("%.2lf",calculate_recurring_deposit(*pointer_to_principal,*pointer_to_rate,*pointer_to_years));
                     //  __fpurge();
                      getchar();
                      break;
@@ -95,7 +95,7 @@ void maturity_calculator_menu(void)
                      printf("\nEnter time in years");
                      scanf("%lf",&years);
                      printf("\nPress Enter to continue\n");
-                     printf("%lf",calculate_ppf(*pointer_to_principal,*pointer_to_rate,*pointer_to_years));
+                     printf("%.2lf",calculate_ppf(*pointer_to_principal,*pointer_to_rate,*pointer_to_years));
                     //  __fpurge();
                      getchar();
                      break;
