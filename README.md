@@ -5,7 +5,12 @@ Visit [Pages for Report -optional](using github.io option)
 
 |Build|Unit Test|cppcheck|Valgrind|Coverage|Git Inspector|
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| 1 | 2 |[![cppcheck-action](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/cppcheck.yml)| 3| 4|5|
+| [![C Build Status](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/cbuild.yml/badge.svg)](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/cbuild.yml) 
+|[![Unit Testing](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/unitTesting.yml/badge.svg)](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/unitTesting.yml) 
+|[![cppcheck-action](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/cppcheck.yml)
+|[![Dynamic Analysis](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/dynamic_code_quality.yml/badge.svg)](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/dynamic_code_quality.yml)
+|[![CI-Coverage](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/coverage.yml/badge.svg)](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/coverage.yml) 
+|[![Contribution check](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/gitinspector.yml)|
 
 
 
