@@ -1,7 +1,7 @@
 #include "unity.h"
 #include "header.h"
 
-/* Modify these two lines according to the project */
+/* Update these two lines according to the project */
 #define PROJECT_NAME "maturitycalculator"
 
 /* Prototypes for all the test functions */
