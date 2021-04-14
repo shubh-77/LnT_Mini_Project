@@ -3,9 +3,9 @@
 
 Visit [Pages for Report -optional](using github.io option)
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
-[![C/C++ CI](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/c-cpp.yml) | To be added | To be added | To be added
+|Build|Unit Test|cppcheck|Valgrind|Coverage|Git Inspector|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| [![Build Status](https://github.com/swapnilkhandekar999/financialcalculator/actions/workflows/cbuild.yml/badge.svg)](https://github.com/swapnilkhandekar999/financialcalculator/actions/workflows/cbuild.yml) | [![Unit Testing](https://github.com/swapnilkhandekar999/financialcalculator/actions/workflows/unitTesting.yml/badge.svg)](https://github.com/swapnilkhandekar999/financialcalculator/actions/workflows/unitTesting.yml) |[![cppcheck](https://github.com/swapnilkhandekar999/financialcalculator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/swapnilkhandekar999/financialcalculator/actions/workflows/cppcheck.yml)| [![CodeQuality](https://github.com/swapnilkhandekar999/financialcalculator/actions/workflows/dynamic_code_quality.yml/badge.svg)](https://github.com/swapnilkhandekar999/financialcalculator/actions/workflows/dynamic_code_quality.yml) | [![CI-Coverage](https://github.com/swapnilkhandekar999/financialcalculator/actions/workflows/coverage.yml/badge.svg)](https://github.com/swapnilkhandekar999/financialcalculator/actions/workflows/coverage.yml) |[![Contribution Check](https://github.com/swapnilkhandekar999/financialcalculator/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/swapnilkhandekar999/financialcalculator/actions/workflows/gitinspector.yml)|
 
 
 
