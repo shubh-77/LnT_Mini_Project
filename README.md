@@ -8,6 +8,20 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 [![C/C++ CI](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/c-cpp.yml) | To be added | To be added | To be added
 
 
+
+## Savings Maturity Amount Calculator
+It provides you with quick calculation of below mentioned services:
+
+* Term Deposit Calculator
+* Recurring Deposit Calculator
+* Public Provident Fund Calculator
+
+
+
+
+
+
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
@@ -15,6 +29,14 @@ Folder             | Description
 `2_Design`         | Documents specifying design details
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
+
+
+
+
+
+
+
+
 
 ## Contributors List and Summary
 
