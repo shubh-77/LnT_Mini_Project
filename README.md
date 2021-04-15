@@ -43,17 +43,16 @@ Folder             | Description
 
 ## Contributors List and Summary
 
-SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No. of Test Cases|Test Case Passed
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`260031` | Shubham Phansekar  | Feature A, B etc    | X No     | X No   |X No   |X No     
+`260031` | Shubham Phansekar  | Calculates Maturity Amount for various savings scheme available offered by Indian Post Office such as: 1.Term-Deposit 2.Recurring Deposit 3.Public Provident Fund | X No     | X No   | 8  | 8     
    
 
 ## Challenges Faced and How Was It Overcome
-
-1. ABC
-2. BCD
-3. ...
-4. ...
+| No. | Challenge | Solution
+|-----|-----------|--------
+|1. | There is no such mutli scheme Maturity-calculator right now in the market | Implemented successfully with the help of functions
+|2. | For Term and Recurring deposit various rate schemes can be applied thus result into maturity amount which is always not available in the current market.| Implemented successfully with the help of storage space of c variables. 
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
