@@ -42,20 +42,40 @@ Folder             | Description
 
 
 ## Contributors List and Summary
+PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No of Test Cases|Test Case Pass
+---------|-------------|----------------|----------------|---------------|-------------|--------------
+`260031` | Shubham Phansekar  | SC1, SC2, SC3, SC4, SC5, SC6, SC7| 1   | 0  | 03   | 03     
 
-SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No. of Test Cases|Test Case Passed
--------|---------|----------------|----------------|---------------|-------------|--------------
-`260031` | Shubham Phansekar  | Calculates Maturity Amount for various savings scheme available offered by Indian Post Office such as: 1.Term-Deposit 2.Recurring Deposit 3.Public Provident Fund | X No     | X No   | 3  | 3     
-   
+| No |Feature  |
+|--|--|
+| SC1 |Calculating the Term Deposit Maturity Amount |
+| SC2 |Calculating the Recurring Deposit Maturity Amount |
+| SC3 |Calculating the Public Provident Fund Maturity Amount |
+| SC4 |Unit Testing the code with various testcases |
+| SC5 |Building the all workflows In Git |
+| SC6 |Designing each module with readme files |
+| SC7 |Gathering all requirments and designing each phase |
+
+
 
 ## Challenges Faced and How Was It Overcome
 | No. | Challenge | Solution
 |-----|-----------|--------
 |1. | There is no such mutli scheme Maturity-calculator right now in the market | Implemented successfully with the help of functions
-|2. | For Term and Recurring deposit various rate schemes can be applied, which thus result into maturity amount which is always not available in the current market.| Implemented successfully with the help of storage space of c variables. 
+|2. | For Term and Recurring deposit various rate schemes can be applied, which thus result into maturity amount which is always not available in the current market.| Implemented successfully with the help of storage space of c variables. |
+| 3. | Make file not working even after following all steps  | Added make to environment variables  |
 
-## Learning Resources
-1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
-3. [git inspector](https://github.com/ejwa/gitinspector.git)
-4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
+
+
+# Usage of the project
+```sh
+# For Building the main application
+make
+# For Running the main application
+make run
+# For Building the test file
+make test
+```    
+   
+
+
