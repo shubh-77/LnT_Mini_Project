@@ -20,7 +20,11 @@
 
 ## Low Level Design 
 
-![FeaturesStructuralDiagram](Link to Pic)
+
+### Structure Diagrams
+* Component Diagram :
+![ComponentDiagram](https://github.com/shubh-77/LnT_Mini_Project/blob/main/2_Design/LL_component_diagram.png)
+
 
 
 ### Behavioral Diagrams
