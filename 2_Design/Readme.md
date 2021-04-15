@@ -20,7 +20,10 @@
 
 ## Low Level Design 
 
-![FeaturesStructuralDiagram](Link to Pic)
+
+### Structure Diagrams
+
+
 
 
 ### Behavioral Diagrams
