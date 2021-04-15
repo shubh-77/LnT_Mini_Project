@@ -45,7 +45,10 @@ Folder             | Description
 
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`260031` | Shubham Phansekar  | Calculates Maturity Amount for various savings scheme available offered by Indian Post Office   | X No     | X No   |X No   |X No     
+`260031` | Shubham Phansekar  | Calculates Maturity Amount for various savings scheme available offered by Indian Post Office such as:
+* Term Deposit(TD)
+* Recurring Deposit(RD)
+* Public Provident Fund(PPF)| X No     | X No   | X No  | X No     
    
 
 ## Challenges Faced and How Was It Overcome
