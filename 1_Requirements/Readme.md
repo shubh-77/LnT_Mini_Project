@@ -28,7 +28,11 @@ There is a wide range of schemes available based on different types of individua
 ## Cost and Features with Time 
 | Time | Feature | Cost |
 | ----- | ----- | ----- |
-| 10    |   Sum |  10  |
+| 1950-1970    | It calculated amount for small pricipal amount at lesser rate and had fewer savings schemes | ₹ 10000  |
+| 1970-2000    | It calculated amount for big pricipal amount at good rate and had more savings schemes| ₹ 5000  |
+| 2000-Present | It calculates amount for bigger pricipal amount at great rate and has more savings schemes| ₹ 500  |
+
+
 
 
 ## Defining Our System
