@@ -43,9 +43,9 @@ Folder             | Description
 
 ## Contributors List and Summary
 
-SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No. of Test Cases|Test Case Passed
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`260031` | Shubham Phansekar  | Calculates Maturity Amount for various savings scheme available offered by Indian Post Office such as: 1.Term-Deposit 2.Recurring Deposit 3.Public Provident Fund | X No     | X No   | X No  | X No     
+`260031` | Shubham Phansekar  | Calculates Maturity Amount for various savings scheme available offered by Indian Post Office such as: 1.Term-Deposit 2.Recurring Deposit 3.Public Provident Fund | X No     | X No   | 8  | 8     
    
 
 ## Challenges Faced and How Was It Overcome
