@@ -49,11 +49,10 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No. of Test 
    
 
 ## Challenges Faced and How Was It Overcome
-
-1. ABC
-2. BCD
-3. ...
-4. ...
+| No. | Challenge | Solution
+|-----|-----------|--------
+|1. | There is no such mutli scheme Maturity-calculator right now in the market | Implemented successfully with the help of functions
+|2. | For Term and Recurring deposit various rate schemes can be applied thus result into maturity amount which is always not available in the current market.| Implemented successfully with the help of storage space of c variables. 
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
