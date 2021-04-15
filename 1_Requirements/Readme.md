@@ -18,7 +18,7 @@ Post Office Savings Scheme Maturity Amount Calculator offer a range of benefits 
 A Savings Scheme Maturity Amount Calculator helps people to calculate amount based on their money invested for a Stipulated amount of time.
 
 ### Provides various schemes
-There is a wide range of products based on different types of individuals. It calculates amount for various saving schemes as Public Provident Fund(PPF),Recurring Deposit(RD) etc.
+There is a wide range of products based on different types of individuals. It calculates amount for various saving schemes as Public Provident Fund(PPF),Recurring Deposit(RD),Term Deposit(TD) etc.
 
 
 
