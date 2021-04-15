@@ -24,25 +24,17 @@
  * @brief Error values for Maturity amount calculator operations
  * 
  */
-typedef enum error_t {
-    ERROR_DIV_BY_ZERO = -2, /**< Division by 0 error */
-    ERROR_NULL_PTR = -1,    /**< Null pointer dereferncing error */
-    SUCCESS = 0             /**< Compute operation is successful */
-}error_t;
+// typedef enum error_t {
+//     ERROR_DIV_BY_ZERO = -2, /**< Division by 0 error */
+//     ERROR_NULL_PTR = -1,    /**< Null pointer dereferncing error */
+//     SUCCESS = 0             /**< Compute operation is successful */
+// }error_t;
 
-/**
- * @brief Structure for Complex number
- * 
- */
-typedef struct complex_t {
-    float real;         /**< real part of the complex number */
-    float imaginary;    /**< real part of the complex number */
-} complex_t;
 
 
 
 /**
- * @brief computes maturity of teh two complex numbers
+ * @brief computes maturity of the principal amount
  * @param[in] principal Pointer to prinicipal
  * @param[in] rate Pointer to rate
  * @param[in] years Pointer to years
