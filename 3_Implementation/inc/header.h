@@ -34,7 +34,7 @@
 
 
 /**
- * @brief computes maturity of the principal amount
+ * @brief computes maturity of the principal amount for term deposit
  * @param[in] principal Pointer to prinicipal
  * @param[in] rate Pointer to rate
  * @param[in] years Pointer to years
@@ -44,7 +44,29 @@
 
 double calculate_term_deposit(double principal,double rate,double years);
 
+/**
+ * @brief computes maturity of the principal amount for recurring deposit
+ * @param[in] principal Pointer to prinicipal
+ * @param[in] rate Pointer to rate
+ * @param[in] years Pointer to years
+ * @param[out] maturity_amount Pointer to store maturity_amount
+ * @return error_t SUCCESS if operation is completed successfully. Error value otherwise.
+ */
+
+
 double calculate_recurring_deposit(double principal,double rate,double years);
+
+
+/**
+ * @brief computes maturity of the principal amount for PPF
+ * @param[in] principal Pointer to prinicipal
+ * @param[in] rate Pointer to rate
+ * @param[in] years Pointer to years
+ * @param[out] maturity_amount Pointer to store maturity_amount
+ * @return error_t SUCCESS if operation is completed successfully. Error value otherwise.
+ */
+
+
 
 double calculate_ppf(double principal,double rate,double years);
 

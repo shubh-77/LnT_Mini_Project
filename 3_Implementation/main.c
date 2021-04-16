@@ -40,6 +40,13 @@ int main(int argc, char *argv[])
     }
 }
 
+/**
+* @brief displays starting menu to select intended operation
+ * 
+ * @param[in] maturity_calculator_operation variable selecting opearation
+ * @return 0
+ */
+
 void maturity_calculator_menu(void)
 {
     printf("\nSupported Maturity Calculator Operations\n");
@@ -113,6 +120,13 @@ void maturity_calculator_menu(void)
         return;  
     }
 }
+
+/**
+* @brief Check if the operation is a valid operation
+ * 
+ * @param[in] operation variable selecting opearation
+ * @return 0
+ */
 int valid_operation(int operation)
 {
     /* Check if the operation is a valid operation */
