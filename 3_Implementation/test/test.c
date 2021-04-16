@@ -20,7 +20,7 @@ int main()
 /* Initiate the Unity Test Framework */
   UNITY_BEGIN();
 
-/* Run Test functions */
+/* Run Test functions for each functionality of the maturity calculator*/
   RUN_TEST(test_term_deposit);
   RUN_TEST(test_recurring_deposit);
   RUN_TEST(test_ppf);
